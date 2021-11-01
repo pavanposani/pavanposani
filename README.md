@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pavan Posani @pavanposani
+- 👋 Hi, I’m Pavan Posani 
 - 👀 I’m interested in Application and Software Development 
 - 🌱 I’m currently learning about Embedded Software and Robotics
 - 💞️ I’m looking to collaborate on projects involving python and c++
